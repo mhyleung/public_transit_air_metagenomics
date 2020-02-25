@@ -1,0 +1,260 @@
+Sample	City	Location	Latitude	Longitude	Line	Interchange	Ground	Samplig_date	Temperature_Out	RH
+SL310937	Hong Kong	Che Kung Temple	22.374751	114.185998	Ma On Shan Line	Station	Aboveground	04_07_2017	31	81
+SL310942	Hong Kong	Cheung Sha Wan	22.335807	114.156443	Tsuen Wan Line	Station	Underground	04_07_2017	30	85
+SL310935	Hong Kong	Kowloon Tong	22.337199	114.175817	East Rail Line	Interchange	Aboveground	04_07_2017	31	81
+SL310943	Hong Kong	Lai King	22.348727	114.126144	Tung Chung Line	Interchange	Underground	04_07_2017	30	85
+SL310940	Hong Kong	Prince Edward	22.325069	114.168319	Kwun Tong Line	Interchange	Underground	04_07_2017	30	85
+SL310938	Hong Kong	Sha Tin Wai	22.376943	114.194785	Ma On Shan Line	Station	Aboveground	04_07_2017	31	81
+SL310941	Hong Kong	Sham Shui Po	22.331291	114.161786	Tsuen Wan Line	Station	Underground	04_07_2017	30	85
+SL310939	Hong Kong	Shek Kip Mei	22.331996	114.168759	Kwun Tong Line	Station	Underground	04_07_2017	30	85
+SL310936	Hong Kong	Tai Wai	22.373025	114.178509	East Rail Line	Interchange	Aboveground	04_07_2017	31	81
+SL310944	Hong Kong	Tsing Yi	22.359245	114.107165	Tung Chung Line	Interchange	Underground	04_07_2017	30	85
+SL310950	Hong Kong	Admiralty	22.279733	114.164584	South Island Line	Interchange	Underground	05_07_2017	33	71
+SL310952	Hong Kong	East Tsim Sha Tsui	22.295269	114.174305	West Rail Line	Station	Underground	05_07_2017	33	71
+SL310948	Hong Kong	Fortress Hill	22.288471	114.193647	Island Line	Station	Underground	05_07_2017	32	75
+SL310953	Hong Kong	Hung Hom	22.303619	114.181483	West Rail Line	Interchange	Aboveground	05_07_2017	33	71
+SL310954	Hong Kong	Mong Kok East	22.322557	114.172471	East Rail Line	Station	Aboveground	05_07_2017	33	71
+SL310947	Hong Kong	North Point	22.291449	114.200449	Island Line	Interchange	Underground	05_07_2017	32	75
+SL310949	Hong Kong	Ocean Park	22.249142	114.174605	South Island Line	Station	Aboveground	05_07_2017	33	71
+SL310946	Hong Kong	Quarry Bay	22.288431	114.209697	Tseung Kwan O Line	Interchange	Underground	05_07_2017	32	75
+SL310951	Hong Kong	Tsim Sha Tsui	22.29787	114.17217	Tsuen Wan Line	Station	Underground	05_07_2017	33	71
+SL310945	Hong Kong	Yau Tong	22.298656	114.236905	Tseung Kwan O Line	Station	Underground	05_07_2017	32	75
+SL310957	Hong Kong	Che Kung Temple	22.374751	114.185998	Ma On Shan Line	Station	Aboveground	06_07_2017	30	87
+SL310962	Hong Kong	Cheung Sha Wan	22.335807	114.156443	Tsuen Wan Line	Station	Underground	06_07_2017	31	81
+SL310955	Hong Kong	Kowloon Tong	22.337199	114.175817	East Rail Line	Interchange	Aboveground	06_07_2017	30	87
+SL310963	Hong Kong	Lai King	22.348727	114.126144	Tung Chung Line	Interchange	Underground	06_07_2017	31	81
+SL310960	Hong Kong	Prince Edward	22.325069	114.168319	Kwun Tong Line	Interchange	Underground	06_07_2017	31	81
+SL310958	Hong Kong	Sha Tin Wai	22.376943	114.194785	Ma On Shan Line	Station	Aboveground	06_07_2017	30	87
+SL310961	Hong Kong	Sham Shui Po	22.331291	114.161786	Tsuen Wan Line	Station	Underground	06_07_2017	31	81
+SL310959	Hong Kong	Shek Kip Mei	22.331996	114.168759	Kwun Tong Line	Station	Underground	06_07_2017	31	81
+SL310956	Hong Kong	Tai Wai	22.373025	114.178509	East Rail Line	Interchange	Aboveground	06_07_2017	30	87
+SL310964	Hong Kong	Tsing Yi	22.359245	114.107165	Tung Chung Line	Interchange	Underground	06_07_2017	31	81
+SL310970	Hong Kong	Admiralty	22.279733	114.164584	South Island Line	Interchange	Underground	07_07_2017	30	77
+SL310972	Hong Kong	East Tsim Sha Tsui	22.295269	114.174305	West Rail Line	Station	Underground	07_07_2017	30	77
+SL310968	Hong Kong	Fortress Hill	22.288471	114.193647	Island Line	Station	Underground	07_07_2017	31	79
+SL310973	Hong Kong	Hung Hom	22.303619	114.181483	West Rail Line	Interchange	Aboveground	07_07_2017	30	77
+SL310974	Hong Kong	Mong Kok East	22.322557	114.172471	East Rail Line	Station	Aboveground	07_07_2017	30	77
+SL310967	Hong Kong	North Point	22.291449	114.200449	Island Line	Interchange	Underground	07_07_2017	31	79
+SL310969	Hong Kong	Ocean Park	22.249142	114.174605	South Island Line	Station	Aboveground	07_07_2017	30	77
+SL310966	Hong Kong	Quarry Bay	22.288431	114.209697	Tseung Kwan O Line	Interchange	Underground	07_07_2017	31	79
+SL310971	Hong Kong	Tsim Sha Tsui	22.29787	114.17217	Tsuen Wan Line	Station	Underground	07_07_2017	30	77
+SL310965	Hong Kong	Yau Tong	22.298656	114.236905	Tseung Kwan O Line	Station	Underground	07_07_2017	31	79
+SL310977	Hong Kong	Che Kung Temple	22.374751	114.185998	Ma On Shan Line	Station	Aboveground	11_07_2017	32	70
+SL310982	Hong Kong	Cheung Sha Wan	22.335807	114.156443	Tsuen Wan Line	Station	Underground	11_07_2017	33	63
+SL310975	Hong Kong	Kowloon Tong	22.337199	114.175817	East Rail Line	Interchange	Aboveground	11_07_2017	32	70
+SL310983	Hong Kong	Lai King	22.348727	114.126144	Tung Chung Line	Interchange	Underground	11_07_2017	33	63
+SL310980	Hong Kong	Prince Edward	22.325069	114.168319	Kwun Tong Line	Interchange	Underground	11_07_2017	33	63
+SL310978	Hong Kong	Sha Tin Wai	22.376943	114.194785	Ma On Shan Line	Station	Aboveground	11_07_2017	32	70
+SL310981	Hong Kong	Sham Shui Po	22.331291	114.161786	Tsuen Wan Line	Station	Underground	11_07_2017	33	63
+SL310979	Hong Kong	Shek Kip Mei	22.331996	114.168759	Kwun Tong Line	Station	Underground	11_07_2017	33	63
+SL310976	Hong Kong	Tai Wai	22.373025	114.178509	East Rail Line	Interchange	Aboveground	11_07_2017	32	70
+SL310984	Hong Kong	Tsing Yi	22.359245	114.107165	Tung Chung Line	Interchange	Underground	11_07_2017	33	63
+SL310990	Hong Kong	Admiralty	22.279733	114.164584	South Island Line	Interchange	Underground	12_07_2017	34	61
+SL310992	Hong Kong	East Tsim Sha Tsui	22.295269	114.174305	West Rail Line	Station	Underground	12_07_2017	34	61
+SL310988	Hong Kong	Fortress Hill	22.288471	114.193647	Island Line	Station	Underground	12_07_2017	32	73
+SL310993	Hong Kong	Hung Hom	22.303619	114.181483	West Rail Line	Interchange	Aboveground	12_07_2017	34	61
+SL310994	Hong Kong	Mong Kok East	22.322557	114.172471	East Rail Line	Station	Aboveground	12_07_2017	34	61
+SL310987	Hong Kong	North Point	22.291449	114.200449	Island Line	Interchange	Underground	12_07_2017	32	73
+SL310989	Hong Kong	Ocean Park	22.249142	114.174605	South Island Line	Station	Aboveground	12_07_2017	34	61
+SL310986	Hong Kong	Quarry Bay	22.288431	114.209697	Tseung Kwan O Line	Interchange	Underground	12_07_2017	32	73
+SL310991	Hong Kong	Tsim Sha Tsui	22.29787	114.17217	Tsuen Wan Line	Station	Underground	12_07_2017	34	61
+SL310985	Hong Kong	Yau Tong	22.298656	114.236905	Tseung Kwan O Line	Station	Underground	12_07_2017	32	73
+SL310997	Hong Kong	Che Kung Temple	22.374751	114.185998	Ma On Shan Line	Station	Aboveground	13_07_2017	33	67
+SL311002	Hong Kong	Cheung Sha Wan	22.335807	114.156443	Tsuen Wan Line	Station	Underground	13_07_2017	35	59
+SL310995	Hong Kong	Kowloon Tong	22.337199	114.175817	East Rail Line	Interchange	Aboveground	13_07_2017	33	67
+SL311003	Hong Kong	Lai King	22.348727	114.126144	Tung Chung Line	Interchange	Underground	13_07_2017	35	59
+SL311000	Hong Kong	Prince Edward	22.325069	114.168319	Kwun Tong Line	Interchange	Underground	13_07_2017	35	59
+SL310998	Hong Kong	Sha Tin Wai	22.376943	114.194785	Ma On Shan Line	Station	Aboveground	13_07_2017	33	67
+SL311001	Hong Kong	Sham Shui Po	22.331291	114.161786	Tsuen Wan Line	Station	Underground	13_07_2017	35	59
+SL310999	Hong Kong	Shek Kip Mei	22.331996	114.168759	Kwun Tong Line	Station	Underground	13_07_2017	35	59
+SL310996	Hong Kong	Tai Wai	22.373025	114.178509	East Rail Line	Interchange	Aboveground	13_07_2017	33	67
+SL311004	Hong Kong	Tsing Yi	22.359245	114.107165	Tung Chung Line	Interchange	Underground	13_07_2017	35	59
+SL311010	Hong Kong	Admiralty	22.279733	114.164584	South Island Line	Interchange	Underground	14_07_2017	34	61
+SL311012	Hong Kong	East Tsim Sha Tsui	22.295269	114.174305	West Rail Line	Station	Underground	14_07_2017	34	61
+SL311008	Hong Kong	Fortress Hill	22.288471	114.193647	Island Line	Station	Underground	14_07_2017	34	68
+SL311013	Hong Kong	Hung Hom	22.303619	114.181483	West Rail Line	Interchange	Aboveground	14_07_2017	34	61
+SL311014	Hong Kong	Mong Kok East	22.322557	114.172471	East Rail Line	Station	Aboveground	14_07_2017	34	61
+SL311007	Hong Kong	North Point	22.291449	114.200449	Island Line	Interchange	Underground	14_07_2017	34	68
+SL311009	Hong Kong	Ocean Park	22.249142	114.174605	South Island Line	Station	Aboveground	14_07_2017	34	61
+SL311006	Hong Kong	Quarry Bay	22.288431	114.209697	Tseung Kwan O Line	Interchange	Underground	14_07_2017	34	68
+SL311011	Hong Kong	Tsim Sha Tsui	22.29787	114.17217	Tsuen Wan Line	Station	Underground	14_07_2017	34	61
+SL311005	Hong Kong	Yau Tong	22.298656	114.236905	Tseung Kwan O Line	Station	Underground	14_07_2017	34	68
+SL342402	London	Brixton	51.52774	-0.13303	Victoria	Station	Underground	18_08_2017	20	75
+SL342404	London	Euston	51.54502	-0.10752	Victoria	Interchange	Underground	18_08_2017	19	76
+SL342407	London	Finsbury Park	51.50674	-0.14276	Victoria	Interchange	Underground	18_08_2017	20	75
+SL342409	London	Green Park	51.48603	-0.12369	Victoria	Interchange	Underground	18_08_2017	19	76
+SL342406	London	Highbury & Islington	51.51517	-0.14119	Victoria	Interchange	Underground	18_08_2017	20	75
+SL342405	London	Kings Cross St Pancras	51.56498	-0.10543	Victoria	Interchange	Underground	18_08_2017	19	76
+SL342408	London	Oxford Circus	51.489081	-0.133037	Victoria	Interchange	Underground	18_08_2017	19	76
+SL342410	London	Pimlico	51.46239	-0.115421	Victoria	Station	Underground	18_08_2017	19	76
+SL342401	London	Vauxhall	51.5245	-0.1381	Victoria	Interchange	Underground	18_08_2017	20	75
+SL342403	London	Warren Street	51.53057	-0.12399	Victoria	Interchange	Underground	18_08_2017	19	76
+SL342365	New York	57th St	40.764664	-73.980658	N/Q/R	Interchange	Underground	21_06_2017	28	44
+SL342364	New York	63rd St.	40.626472	-73.996895	D/N	Interchange	Underground	21_06_2017	28	44
+SL342366	New York	68th St.	40.768141	-73.96387	6	Station	Underground	21_06_2017	28	44
+SL342363	New York	72nd St.	40.775594	-73.97641	B/C	Interchange	Underground	21_06_2017	28	44
+SL342367	New York	77th St.	40.77362	-73.959874	6	Station	Underground	21_06_2017	28	44
+SL311017	Oslo	Carl Berners plass	59.92566	10.77959	Line05	Interchange	Underground	21_06_2017	18	44
+SL311023	Oslo	Ellingsrudåsen	59.93651	10.91664	Line02	Station	Underground	21_06_2017	18	44
+SL311028	Oslo	Forskningsparken	59.9437	10.72088	Line04	Interchange	Aboveground	21_06_2017	20	38
+SL311018	Oslo	Grønland	59.91278	10.76009	Line01	Interchange	Underground	21_06_2017	18	44
+SL311025	Oslo	Helsfyr	59.91259	10.80139	Line01	Interchange	Underground	21_06_2017	18	44
+SL311019	Oslo	Jernbanetorget	59.91226	10.75027	Line01	Interchange	Underground	21_06_2017	18	44
+SL311024	Oslo	Lindeberg	59.93276	10.88167	Line02	Station	Underground	21_06_2017	18	44
+SL311030	Oslo	Løren	59.9301	10.78959	Line04	Station	Underground	21_06_2017	20	38
+SL311027	Oslo	Majorstua	59.93016	10.71473	Line01	Interchange	Aboveground	21_06_2017	18	44
+SL311022	Oslo	Montebello	59.93482	10.6664	Line03	Station	Aboveground	21_06_2017	20	38
+SL311021	Oslo	Nationaltheateret	59.91546	10.73209	Line01	Interchange	Underground	21_06_2017	20	38
+SL311029	Oslo	Nydalen	59.9494	10.76592	Line04	Interchange	Underground	21_06_2017	20	38
+SL311016	Oslo	Romsås	59.9626	10.89248	Line04	Interchange	Underground	21_06_2017	18	44
+SL311020	Oslo	Stortinget	59.91343	10.74329	Line01	Interchange	Underground	21_06_2017	20	38
+SL311026	Oslo	Tøyen	59.91558	10.7758	Line01	Interchange	Underground	21_06_2017	18	44
+SL311015	Oslo	Vestli	59.97204	10.92944	Line04	Interchange	Underground	21_06_2017	18	44
+SL342412	London	Brixton	51.54502	-0.10752	Victoria	Station	Underground	21_08_2017	18	95
+SL342418	London	Brixton	51.489081	-0.133037	Victoria	Station	Underground	21_08_2017	20	82
+SL342416	London	Euston	51.46239	-0.115421	Victoria	Interchange	Underground	21_08_2017	18	95
+SL342413	London	Finsbury Park	51.53057	-0.12399	Victoria	Station	Underground	21_08_2017	20	82
+SL342414	London	Highbury & Islington	51.52774	-0.13303	Victoria	Interchange	Underground	21_08_2017	20	82
+SL342415	London	Kings Cross St Pancras	51.5245	-0.1381	Victoria	Interchange	Underground	21_08_2017	20	82
+SL342420	London	Pimlico	51.51517	-0.14119	Victoria	Station	Underground	21_08_2017	20	82
+SL342411	London	Vauxhall	51.56498	-0.10543	Victoria	Interchange	Underground	21_08_2017	18	95
+SL342419	London	Vauxhall	51.50674	-0.14276	Victoria	Interchange	Underground	21_08_2017	20	82
+SL342417	London	Warren Street	51.48603	-0.12369	Victoria	Interchange	Underground	21_08_2017	20	82
+SL342378	New York	28th St.	40.747215	-73.993365	1	Station	Underground	22_06_2017	27	63
+SL342375	New York	33rd St.	40.746081	-73.982076	6	Station	Underground	22_06_2017	27	63
+SL342374	New York	51st St.	40.762456	-73.985984	C/E	Interchange	Underground	22_06_2017	28	49
+SL342372	New York	59th St.	40.762526	-73.967967	N/Q/R	Interchange	Underground	22_06_2017	28	49
+SL342369	New York	63rd St.	40.626472	-73.996895	D/N	Interchange	Underground	22_06_2017	28	49
+SL342370	New York	68th St.	40.768141	-73.96387	6	Station	Underground	22_06_2017	28	49
+SL342368	New York	72nd St.	40.775594	-73.97641	B/C	Interchange	Underground	22_06_2017	28	49
+SL342371	New York	77th St.	40.77362	-73.959874	6	Station	Underground	22_06_2017	28	49
+SL342376	New York	86th St.	40.779492	-73.955589	4/5/2007	Interchange	Underground	22_06_2017	28	49
+SL342377	New York	96th St.	40.793919	-73.972323	1/2/2003	Interchange	Underground	22_06_2017	28	49
+SL335742	Denver	Boulder Junction	40.0258734	-105.2510194	different regional lines	Station	Underground	22_06_2017	32	34
+SL335743	Denver	Boulder Junction	40.0258734	-105.2510194	different regional lines	Station	Underground	22_06_2017	32	34
+SL335744	Denver	Boulder Junction	40.0258734	-105.2510194	different regional lines	Interchange	Underground	22_06_2017	32	34
+SL335745	Denver	Boulder Junction	40.0258734	-105.2510194	different regional lines	Station	Underground	22_06_2017	24	55
+SL335746	Denver	Boulder Junction	40.0258734	-105.2510194	different regional lines	Station	Underground	22_06_2017	24	55
+SL342373	New York	Grand Central 42nd St.	40.751776	-73.976848	4/5/2006	Station	Aboveground	22_06_2017	27	63
+SL342391	New York	28th St.	40.747215	-73.993365	1	Station	Underground	23_06_2017	28	76
+SL342386	New York	33rd St.	40.746081	-73.982076	6	Station	Underground	23_06_2017	28	76
+SL342388	New York	39th St. Herald Sq.	40.750373	-73.991057	1/2/2003	Interchange	Underground	23_06_2017	28	76
+SL342385	New York	51st St.	40.762456	-73.985984	C/E	Interchange	Underground	23_06_2017	28	76
+SL342380	New York	57th St.	40.764664	-73.980658	N/Q/R	Interchange	Underground	23_06_2017	28	84
+SL342382	New York	59th St.	40.762526	-73.967967	N/Q/R	Interchange	Underground	23_06_2017	28	76
+SL342379	New York	68th St.	40.768141	-73.96387	6	Station	Underground	23_06_2017	27	77
+SL342381	New York	77th St.	40.77362	-73.959874	6	Station	Underground	23_06_2017	28	76
+SL342389	New York	86th St.	40.779492	-73.955589	4/5/2006	Interchange	Underground	23_06_2017	28	76
+SL342390	New York	Canal St.	40.720824	-74.005229	A/C/E	Interchange	Underground	23_06_2017	28	76
+SL335678	Oslo	Carl Berners plass	59.92566	10.77959	Line05	Interchange	Underground	23_06_2017	18	51
+SL335747	Denver	Denver Airport (DIA)	39.8501278	-104.6739062	A line	Interchange	Aboveground	23_06_2017	15	77
+SL335748	Denver	Denver Airport (DIA)	39.8501278	-104.6739062	A line	Interchange	Aboveground	23_06_2017	15	77
+SL335684	Oslo	Ellingsrudåsen	59.93651	10.91664	Line02	Station	Underground	23_06_2017	18	51
+SL335689	Oslo	Forskningsparken	59.9437	10.72088	Line04	Interchange	Aboveground	23_06_2017	17	66
+SL342383	New York	Grand Central 42nd St.	40.751776	-73.976848	4/5/2007	Station	Aboveground	23_06_2017	28	76
+SL335679	Oslo	Grønland	59.91278	10.76009	Line01	Interchange	Underground	23_06_2017	17	66
+SL335686	Oslo	Helsfyr	59.91259	10.80139	Line01	Interchange	Underground	23_06_2017	18	51
+SL335680	Oslo	Jernbanetorget	59.91226	10.75027	Line01	Interchange	Underground	23_06_2017	17	66
+SL335685	Oslo	Lindeberg	59.93276	10.88167	Line02	Station	Underground	23_06_2017	18	51
+SL335691	Oslo	Løren	59.9301	10.78959	Line04	Station	Underground	23_06_2017	17	66
+SL335688	Oslo	Majorstua	59.93016	10.71473	Line01	Interchange	Aboveground	23_06_2017	17	66
+SL335683	Oslo	Montebello	59.93482	10.6664	Line03	Station	Aboveground	23_06_2017	17	66
+SL335682	Oslo	Nationaltheateret	59.91546	10.73209	Line01	Interchange	Underground	23_06_2017	17	66
+SL335690	Oslo	Nydalen	59.9494	10.76592	Line04	Interchange	Underground	23_06_2017	17	66
+SL335677	Oslo	Romsås	59.9626	10.89248	Line04	Interchange	Underground	23_06_2017	18	51
+SL335681	Oslo	Stortinget	59.91343	10.74329	Line01	Interchange	Underground	23_06_2017	17	66
+SL342384	New York	Time Square 42nd St.	40.755983	-73.986229	A/C/E	Interchange	Underground	23_06_2017	27	77
+SL335687	Oslo	Tøyen	59.91558	10.7758	Line01	Interchange	Underground	23_06_2017	17	66
+SL335749	Denver	Train Cabin - Back wagon	39.8501278	-104.6739062	A line	Car	Aboveground	23_06_2017	15	77
+SL335750	Denver	Train Cabin - front wagon	39.8501278	-104.6739062	A line	Car	Aboveground	23_06_2017	15	77
+SL342387	New York	Union Square 14th St.	40.734789	-73.99073	L/N/Q	Interchange	Underground	23_06_2017	28	76
+SL335739	Denver	Union Station	39.7526509	-105.001685	different regional lines	Station	Underground	23_06_2017	15	77
+SL335751	Denver	Union Station	39.7526509	-105.001685	different regional lines	Interchange	Aboveground	23_06_2017	15	77
+SL335752	Denver	Union Station	39.7526509	-105.001685	different regional lines	Station	Aboveground	23_06_2017	15	77
+SL335753	Denver	Union Station	39.7526509	-105.001685	different regional lines	Station	Underground	23_06_2017	15	77
+SL335755	Denver	Union Station	39.7526509	-105.001685	different regional lines	Station	Underground	23_06_2017	15	77
+SL335676	Oslo	Vestli	59.97204	10.92944	Line04	Interchange	Underground	23_06_2017	18	51
+SL342428	London	Brixton	51.489081	-0.133037	Victoria	Station	Underground	23_07_2017	19	62
+SL342426	London	Euston	51.46239	-0.115421	Victoria	Interchange	Underground	23_07_2017	17	88
+SL342423	London	Finsbury Park	51.53057	-0.12399	Victoria	Interchange	Underground	23_07_2017	19	62
+SL342421	London	Green Park	51.56498	-0.10543	Victoria	Interchange	Underground	23_07_2017	17	88
+SL342424	London	Highbury & Islington	51.52774	-0.13303	Victoria	Interchange	Underground	23_07_2017	19	62
+SL342425	London	Kings Cross St Pancras	51.5245	-0.1381	Victoria	Interchange	Underground	23_07_2017	19	62
+SL342422	London	Oxford Circus	51.54502	-0.10752	Victoria	Interchange	Underground	23_07_2017	17	88
+SL342430	London	Pimlico	51.51517	-0.14119	Victoria	Station	Underground	23_07_2017	19	62
+SL342429	London	Vauxhall	51.50674	-0.14276	Victoria	Interchange	Underground	23_07_2017	19	62
+SL342427	London	Warren Street	51.48603	-0.12369	Victoria	Interchange	Underground	23_07_2017	17	88
+SL335694	Oslo	Carl Berners plass	59.92566	10.77959	Line05	Interchange	Underground	26_06_2017	19	52
+SL335700	Oslo	Ellingsrudåsen	59.93651	10.91664	Line02	Station	Underground	26_06_2017	19	52
+SL335705	Oslo	Forskningsparken	59.9437	10.72088	Line04	Interchange	Aboveground	26_06_2017	19	52
+SL335695	Oslo	Grønland	59.91278	10.76009	Line01	Interchange	Underground	26_06_2017	19	52
+SL335702	Oslo	Helsfyr	59.91259	10.80139	Line01	Interchange	Underground	26_06_2017	19	52
+SL335696	Oslo	Jernbanetorget	59.91226	10.75027	Line01	Interchange	Underground	26_06_2017	19	52
+SL335701	Oslo	Lindeberg	59.93276	10.88167	Line02	Station	Underground	26_06_2017	19	52
+SL335707	Oslo	Løren	59.9301	10.78959	Line04	Station	Underground	26_06_2017	19	52
+SL335704	Oslo	Majorstua	59.93016	10.71473	Line01	Interchange	Aboveground	26_06_2017	19	52
+SL335699	Oslo	Montebello	59.93482	10.6664	Line03	Station	Aboveground	26_06_2017	19	52
+SL335698	Oslo	Nationaltheateret	59.91546	10.73209	Line01	Interchange	Underground	26_06_2017	19	52
+SL335706	Oslo	Nydalen	59.9494	10.76592	Line04	Interchange	Underground	26_06_2017	19	52
+SL335693	Oslo	Romsås	59.9626	10.89248	Line04	Interchange	Underground	26_06_2017	19	52
+SL335697	Oslo	Stortinget	59.91343	10.74329	Line01	Interchange	Underground	26_06_2017	19	52
+SL335703	Oslo	Tøyen	59.91558	10.7758	Line01	Interchange	Underground	26_06_2017	19	52
+SL335757	Denver	Union Station	39.7526509	-105.001685	different regional lines	Station	Underground	26_06_2017	26	61
+SL335758	Denver	Union Station	39.7526509	-105.001685	different regional lines	Station	Underground	26_06_2017	26	61
+SL335759	Denver	Union Station	39.7526509	-105.001685	different regional lines	Interchange	Aboveground	26_06_2017	31	21
+SL335760	Denver	Union Station	39.7526509	-105.001685	different regional lines	Interchange	Aboveground	26_06_2017	31	21
+SL335761	Denver	Union Station	39.7526509	-105.001685	different regional lines	Station	Aboveground	26_06_2017	31	21
+SL335762	Denver	Union Station	39.7526509	-105.001685	different regional lines	Station	Aboveground	26_06_2017	31	21
+SL335692	Oslo	Vestli	59.97204	10.92944	Line04	Interchange	Underground	26_06_2017	19	52
+SL342440	Stockholm	Fridhemsplan	59.18277	18.04331	Green	Station	Underground	26_09_2017	17	93
+SL342441	Stockholm	Fridhemsplan	59.18515	18.04241	Green	Station	Underground	26_09_2017	17	93
+SL342443	Stockholm	Medborgarplatsen	59.19513	18.03327	Red	Interchange	Underground	26_09_2017	17	93
+SL342439	Stockholm	Skanstull	59.19556	18.0144	Green	Interchange	Underground	26_09_2017	17	93
+SL342442	Stockholm	Skanstull	59.19104	18.04194	Green	Interchange	Underground	26_09_2017	17	93
+SL342444	Stockholm	Slussen	59.20448	18.04165	Red	Station	Underground	26_09_2017	18	65
+SL342445	Stockholm	T-centralen	59.21546	18.03144	Red	Station	Underground	26_09_2017	18	65
+SL342446	Stockholm	Tekniska hogskolan	59.23283	18.02298	Red	Station	Underground	26_09_2017	18	65
+SL335756	Denver	Blake & 38th	39.7721355	-104.9717774	A line	Interchange	Aboveground	27_06_2017	33	25
+SL335765	Denver	Boulder Central	40.016993	-105.276446	different regional lines	Interchange	Aboveground	27_06_2017	32	24
+SL335766	Denver	Boulder Central	40.016993	-105.276446	different regional lines	Interchange	Aboveground	27_06_2017	32	24
+SL335767	Denver	Boulder Central	40.016993	-105.276446	different regional lines	Interchange	Aboveground	27_06_2017	32	24
+SL335710	Oslo	Carl Berners plass	59.92566	10.77959	Line05	Interchange	Underground	27_06_2017	20	31
+SL335763	Denver	DIA	39.8501278	-104.6739062	A line	Station	Aboveground	27_06_2017	33	25
+SL335764	Denver	DIA	39.8501278	-104.6739062	A line	Station	Aboveground	27_06_2017	33	25
+SL335716	Oslo	Ellingsrudåsen	59.93651	10.91664	Line02	Station	Underground	27_06_2017	20	31
+SL335721	Oslo	Forskningsparken	59.9437	10.72088	Line04	Interchange	Aboveground	27_06_2017	16	39
+SL335711	Oslo	Grønland	59.91278	10.76009	Line01	Interchange	Underground	27_06_2017	16	39
+SL335718	Oslo	Helsfyr	59.91259	10.80139	Line01	Interchange	Underground	27_06_2017	20	31
+SL335712	Oslo	Jernbanetorget	59.91226	10.75027	Line01	Interchange	Underground	27_06_2017	16	39
+SL335717	Oslo	Lindeberg	59.93276	10.88167	Line02	Station	Underground	27_06_2017	20	31
+SL335723	Oslo	Løren	59.9301	10.78959	Line04	Station	Underground	27_06_2017	16	39
+SL335720	Oslo	Majorstua	59.93016	10.71473	Line01	Interchange	Aboveground	27_06_2017	16	39
+SL335715	Oslo	Montebello	59.93482	10.6664	Line03	Station	Aboveground	27_06_2017	16	39
+SL335714	Oslo	Nationaltheateret	59.91546	10.73209	Line01	Interchange	Underground	27_06_2017	16	39
+SL335722	Oslo	Nydalen	59.9494	10.76592	Line04	Interchange	Underground	27_06_2017	16	39
+SL335709	Oslo	Romsås	59.9626	10.89248	Line04	Interchange	Underground	27_06_2017	20	31
+SL335713	Oslo	Stortinget	59.91343	10.74329	Line01	Interchange	Underground	27_06_2017	16	39
+SL335719	Oslo	Tøyen	59.91558	10.7758	Line01	Interchange	Underground	27_06_2017	20	31
+SL335708	Oslo	Vestli	59.97204	10.92944	Line04	Interchange	Underground	27_06_2017	20	31
+SL342448	Stockholm	Danderyd	59.21546	18.03144	Red	Station	Underground	27_09_2017	15	85
+SL342449	Stockholm	Danderyd	59.20448	18.04165	Red	Station	Underground	27_09_2017	15	85
+SL342454	Stockholm	Medborgarplatsen	59.19556	18.0144	Green	Interchange	Underground	27_09_2017	16	77
+SL342453	Stockholm	Slussen	59.18277	18.04331	Green	Station	Underground	27_09_2017	15	85
+SL342452	Stockholm	T-centralen	59.18515	18.04241	Green	Station	Underground	27_09_2017	15	85
+SL342451	Stockholm	Tekniska hogskolan	59.19104	18.04194	Green	Interchange	Underground	27_09_2017	16	77
+SL342447	Stockholm	Universitetet	59.23283	18.02298	Red	Station	Underground	27_09_2017	15	85
+SL342450	Stockholm	Universitetet	59.19513	18.03327	Red	Interchange	Underground	27_09_2017	15	85
+SL342521	Stockholm	Danderyd	59.21546	18.03144	Red	Station	Underground	28_09_2017	15	73
+SL342456	Stockholm	Fridhemsplan	59.18277	18.04331	Green	Station	Underground	28_09_2017	15	88
+SL342457	Stockholm	Fridhemsplan	59.18515	18.04241	Green	Station	Underground	28_09_2017	15	88
+SL342516	Stockholm	Medborgarplatsen	59.19513	18.03327	Red	Interchange	Underground	28_09_2017	15	88
+SL342455	Stockholm	Skanstull	59.19556	18.0144	Green	Interchange	Underground	28_09_2017	15	88
+SL342458	Stockholm	Skanstull	59.19104	18.04194	Red	Interchange	Underground	28_09_2017	15	88
+SL342517	Stockholm	Slussen	59.20448	18.04165	Red	Station	Underground	28_09_2017	15	73
+SL342518	Stockholm	T-centralen	59.21546	18.03144	Red	Station	Underground	28_09_2017	15	73
+SL342519	Stockholm	Tekniska hogskolan	59.23283	18.02298	Red	Station	Underground	28_09_2017	15	73
+SL342520	Stockholm	Universitetet	59.19513	18.03327	Red	Station	Underground	28_09_2017	15	73
+SL335768	Denver	DIA	39.8501278	-104.6739062	A line	Station	Aboveground	29_06_2017	28	25
+SL335769	Denver	DIA	39.8501278	-104.6739062	A line	Station	Aboveground	29_06_2017	28	25
+SL335770	Denver	DIA	39.8501278	-104.6739062	A line	Station	Aboveground	29_06_2017	28	25
+SL335771	Denver	DIA	39.8501278	-104.6739062	A line	Station	Aboveground	29_06_2017	28	25

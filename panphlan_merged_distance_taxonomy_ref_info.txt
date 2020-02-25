@@ -1,0 +1,266 @@
+Sample	City	Strain	Ribotype	Clade
+REF_G000008345	Reference	KPA171202	RT1	IA-3
+REF_G000025765	Reference	SK137	RT1	IA-2
+REF_G000144025	Reference	HL002PA1	RT3	IB-2
+REF_G000144045	Reference	HL067PA1	RT3	IB-2
+REF_G000144185	Reference	HL053PA1	RT4	IA-2
+REF_G000144205	Reference	HL110PA1	RT8	IB-1
+REF_G000144245	Reference	HL072PA1	RT5	IA-1
+REF_G000144265	Reference	HL050PA1	RT3	IB-2
+REF_G000144285	Reference	HL046PA1	RT3	IB-2
+REF_G000144325	Reference	HL050PA3	RT3	IB-2
+REF_G000144345	Reference	HL005PA3	RT1	IA-1
+REF_G000144385	Reference	HL005PA2	RT1	IA-1
+REF_G000144465	Reference	HL050PA2	RT1	II
+REF_G000144485	Reference	HL087PA3	RT3	IB-2
+REF_G000144505	Reference	HL020PA1	RT1	IA-1
+REF_G000144715	Reference	HL027PA2	RT1	IA-1
+REF_G000144735	Reference	HL063PA2	RT3	IB-2
+REF_G000144755	Reference	HL043PA2	RT5	IA-2
+REF_G000144775	Reference	HL002PA3	RT1	IA-1
+REF_G000144795	Reference	HL025PA1	RT1	IA-2
+REF_G000144815	Reference	HL110PA2	RT8	IB-1
+REF_G000144835	Reference	HL074PA1	RT4	IA-2
+REF_G000144855	Reference	HL059PA1	RT16	IB-2
+REF_G000144875	Reference	HL046PA2	RT1	IA-1
+REF_G000144895	Reference	HL110PA4	RT6	II
+REF_G000145115	Reference	HL030PA1	RT1	IB-3
+REF_G000145135	Reference	HL087PA1	RT3	IB-2
+REF_G000145155	Reference	HL083PA2	RT3	IB-2
+REF_G000145175	Reference	HL007PA1	RT4	IA-2
+REF_G000145335	Reference	HL072PA2	RT5	IA-1
+REF_G000145435	Reference	HL092PA1	RT8	IB-1
+REF_G000145535	Reference	HL078PA1	RT1	IA-2
+REF_G000147145	Reference	HL087PA2	RT1	IA-1
+REF_G000178055	Reference	J165	RT1	IA-1
+REF_G000194825	Reference	HL096PA3	RT1	IA-1
+REF_G000194845	Reference	HL096PA2	RT5	IA-2
+REF_G000194865	Reference	HL103PA1	RT2	II
+REF_G000194905	Reference	HL097PA1	RT5	IC
+REF_G000203995	Reference	HL099PA1	RT4	IA-2
+REF_G000213155	Reference	266	RT1	IA-1
+REF_G000217615	Reference	6609	RT1	IB-3
+REF_G000221125	Reference	SK182	RT1	IA-2
+REF_G000231215	Reference	ATCC 11828	RT2	II
+REF_G000240015	Reference	P.acn33	RT3	IA-2
+REF_G000240035	Reference	P.acn17	RT3	IB-2
+REF_G000252385	Reference	PRP-38	RT5	IC
+REF_G000376705	Reference	HL096PA1	RT5	IA-2
+REF_G000730465	Reference	HL411PA1	RT5	IA-1
+REF_G000735055	Reference	HL202PA1	RT6	II
+REF_G000735065	Reference	HL201PA1	Unclassified	III
+SL310935	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310936	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310937	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310939	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310940	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310941	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310942	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310943	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310944	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310945	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310946	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310947	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310948	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310949	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310950	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310951	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310952	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310953	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310954	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310955	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310956	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310958	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310959	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310960	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310961	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310962	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310963	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310964	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310965	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310966	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310967	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310968	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310969	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310970	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310971	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310972	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310973	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310974	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310975	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310976	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310977	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310978	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310979	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310980	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310981	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310982	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310983	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310984	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310985	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310986	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310987	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310988	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310989	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310990	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310991	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310992	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310993	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310995	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310996	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310997	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310998	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL310999	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL311000	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL311001	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL311002	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL311003	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL311004	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL311005	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL311006	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL311007	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL311008	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL311009	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL311010	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL311011	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL311012	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL311013	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL311014	Hong Kong	Hong Kong	Hong Kong	Hong Kong
+SL311015	Oslo	Oslo	Oslo	Oslo
+SL311016	Oslo	Oslo	Oslo	Oslo
+SL311017	Oslo	Oslo	Oslo	Oslo
+SL311018	Oslo	Oslo	Oslo	Oslo
+SL311019	Oslo	Oslo	Oslo	Oslo
+SL311020	Oslo	Oslo	Oslo	Oslo
+SL311021	Oslo	Oslo	Oslo	Oslo
+SL311023	Oslo	Oslo	Oslo	Oslo
+SL311025	Oslo	Oslo	Oslo	Oslo
+SL311026	Oslo	Oslo	Oslo	Oslo
+SL311029	Oslo	Oslo	Oslo	Oslo
+SL311030	Oslo	Oslo	Oslo	Oslo
+SL335676	Oslo	Oslo	Oslo	Oslo
+SL335678	Oslo	Oslo	Oslo	Oslo
+SL335679	Oslo	Oslo	Oslo	Oslo
+SL335680	Oslo	Oslo	Oslo	Oslo
+SL335681	Oslo	Oslo	Oslo	Oslo
+SL335682	Oslo	Oslo	Oslo	Oslo
+SL335686	Oslo	Oslo	Oslo	Oslo
+SL335687	Oslo	Oslo	Oslo	Oslo
+SL335690	Oslo	Oslo	Oslo	Oslo
+SL335691	Oslo	Oslo	Oslo	Oslo
+SL335692	Oslo	Oslo	Oslo	Oslo
+SL335694	Oslo	Oslo	Oslo	Oslo
+SL335695	Oslo	Oslo	Oslo	Oslo
+SL335696	Oslo	Oslo	Oslo	Oslo
+SL335697	Oslo	Oslo	Oslo	Oslo
+SL335698	Oslo	Oslo	Oslo	Oslo
+SL335699	Oslo	Oslo	Oslo	Oslo
+SL335700	Oslo	Oslo	Oslo	Oslo
+SL335701	Oslo	Oslo	Oslo	Oslo
+SL335707	Oslo	Oslo	Oslo	Oslo
+SL335708	Oslo	Oslo	Oslo	Oslo
+SL335710	Oslo	Oslo	Oslo	Oslo
+SL335711	Oslo	Oslo	Oslo	Oslo
+SL335712	Oslo	Oslo	Oslo	Oslo
+SL335713	Oslo	Oslo	Oslo	Oslo
+SL335714	Oslo	Oslo	Oslo	Oslo
+SL335715	Oslo	Oslo	Oslo	Oslo
+SL335719	Oslo	Oslo	Oslo	Oslo
+SL335720	Oslo	Oslo	Oslo	Oslo
+SL335722	Oslo	Oslo	Oslo	Oslo
+SL335723	Oslo	Oslo	Oslo	Oslo
+SL335742	Denver	Denver	Denver	Denver
+SL335743	Denver	Denver	Denver	Denver
+SL335745	Denver	Denver	Denver	Denver
+SL335746	Denver	Denver	Denver	Denver
+SL335749	Denver	Denver	Denver	Denver
+SL335750	Denver	Denver	Denver	Denver
+SL335753	Denver	Denver	Denver	Denver
+SL335755	Denver	Denver	Denver	Denver
+SL335756	Denver	Denver	Denver	Denver
+SL335757	Denver	Denver	Denver	Denver
+SL335758	Denver	Denver	Denver	Denver
+SL335761	Denver	Denver	Denver	Denver
+SL335762	Denver	Denver	Denver	Denver
+SL335763	Denver	Denver	Denver	Denver
+SL335764	Denver	Denver	Denver	Denver
+SL335770	Denver	Denver	Denver	Denver
+SL335771	Denver	Denver	Denver	Denver
+SL342365	New York	New York	New York	New York
+SL342366	New York	New York	New York	New York
+SL342368	New York	New York	New York	New York
+SL342369	New York	New York	New York	New York
+SL342370	New York	New York	New York	New York
+SL342371	New York	New York	New York	New York
+SL342372	New York	New York	New York	New York
+SL342373	New York	New York	New York	New York
+SL342374	New York	New York	New York	New York
+SL342375	New York	New York	New York	New York
+SL342376	New York	New York	New York	New York
+SL342377	New York	New York	New York	New York
+SL342378	New York	New York	New York	New York
+SL342379	New York	New York	New York	New York
+SL342380	New York	New York	New York	New York
+SL342381	New York	New York	New York	New York
+SL342382	New York	New York	New York	New York
+SL342383	New York	New York	New York	New York
+SL342384	New York	New York	New York	New York
+SL342385	New York	New York	New York	New York
+SL342386	New York	New York	New York	New York
+SL342387	New York	New York	New York	New York
+SL342388	New York	New York	New York	New York
+SL342389	New York	New York	New York	New York
+SL342390	New York	New York	New York	New York
+SL342391	New York	New York	New York	New York
+SL342401	London	London	London	London
+SL342403	London	London	London	London
+SL342404	London	London	London	London
+SL342405	London	London	London	London
+SL342406	London	London	London	London
+SL342407	London	London	London	London
+SL342408	London	London	London	London
+SL342409	London	London	London	London
+SL342410	London	London	London	London
+SL342411	London	London	London	London
+SL342412	London	London	London	London
+SL342413	London	London	London	London
+SL342414	London	London	London	London
+SL342415	London	London	London	London
+SL342416	London	London	London	London
+SL342417	London	London	London	London
+SL342418	London	London	London	London
+SL342419	London	London	London	London
+SL342420	London	London	London	London
+SL342421	London	London	London	London
+SL342422	London	London	London	London
+SL342423	London	London	London	London
+SL342424	London	London	London	London
+SL342425	London	London	London	London
+SL342426	London	London	London	London
+SL342427	London	London	London	London
+SL342429	London	London	London	London
+SL342430	London	London	London	London
+SL342439	Stockholm	Stockholm	Stockholm	Stockholm
+SL342440	Stockholm	Stockholm	Stockholm	Stockholm
+SL342441	Stockholm	Stockholm	Stockholm	Stockholm
+SL342442	Stockholm	Stockholm	Stockholm	Stockholm
+SL342443	Stockholm	Stockholm	Stockholm	Stockholm
+SL342445	Stockholm	Stockholm	Stockholm	Stockholm
+SL342446	Stockholm	Stockholm	Stockholm	Stockholm
+SL342447	Stockholm	Stockholm	Stockholm	Stockholm
+SL342448	Stockholm	Stockholm	Stockholm	Stockholm
+SL342449	Stockholm	Stockholm	Stockholm	Stockholm
+SL342450	Stockholm	Stockholm	Stockholm	Stockholm
+SL342451	Stockholm	Stockholm	Stockholm	Stockholm
+SL342452	Stockholm	Stockholm	Stockholm	Stockholm
+SL342453	Stockholm	Stockholm	Stockholm	Stockholm
+SL342454	Stockholm	Stockholm	Stockholm	Stockholm
+SL342455	Stockholm	Stockholm	Stockholm	Stockholm
+SL342456	Stockholm	Stockholm	Stockholm	Stockholm
+SL342457	Stockholm	Stockholm	Stockholm	Stockholm
+SL342458	Stockholm	Stockholm	Stockholm	Stockholm
+SL342516	Stockholm	Stockholm	Stockholm	Stockholm
+SL342517	Stockholm	Stockholm	Stockholm	Stockholm
+SL342518	Stockholm	Stockholm	Stockholm	Stockholm
+SL342520	Stockholm	Stockholm	Stockholm	Stockholm
+SL342521	Stockholm	Stockholm	Stockholm	Stockholm

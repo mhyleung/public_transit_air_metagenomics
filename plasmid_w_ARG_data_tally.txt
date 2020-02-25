@@ -1,0 +1,61 @@
+Mechanism	Context	Number
+ABC Transporter	Chromosome	10436
+Acetyltransferase	Chromosome	5548
+Adenylyltransferase	Chromosome	1
+Aminotransferase	Chromosome	2660
+Antibiotic Target	Chromosome	1233
+Beta-Lactamase	Chromosome	2640
+D-ala D-ala Ligase	Chromosome	807
+Gene Modulating Resistance	Chromosome	3569
+Gylcopeptide Resistance	Chromosome	1
+Methyltransferase	Chromosome	3320
+MFS Transporter	Chromosome	5870
+Nucleotidyltransferase	Chromosome	2
+Other	Chromosome	1369
+Other Efflux	Chromosome	1137
+Phosphotransferase	Chromosome	28
+RND Antibiotic Efflux	Chromosome	503
+rRNA Methyltransferase	Chromosome	7
+Stress Response	Chromosome	871
+Target Overexpression	Chromosome	144
+Target Protection	Chromosome	0
+ABC Transporter	Plasmid	2823
+Acetyltransferase	Plasmid	1373
+Adenylyltransferase	Plasmid	7
+Aminotransferase	Plasmid	620
+Antibiotic Target	Plasmid	234
+Beta-Lactamase	Plasmid	748
+D-ala D-ala Ligase	Plasmid	131
+Gene Modulating Resistance	Plasmid	1144
+Gylcopeptide Resistance	Plasmid	0
+Methyltransferase	Plasmid	770
+MFS Transporter	Plasmid	1737
+Nucleotidyltransferase	Plasmid	3
+Other	Plasmid	398
+Other Efflux	Plasmid	714
+Phosphotransferase	Plasmid	28
+RND Antibiotic Efflux	Plasmid	324
+rRNA Methyltransferase	Plasmid	10
+Stress Response	Plasmid	273
+Target Overexpression	Plasmid	46
+Target Protection	Plasmid	6
+ABC Transporter	Unclassified	4854
+Acetyltransferase	Unclassified	2646
+Adenylyltransferase	Unclassified	8
+Aminotransferase	Unclassified	1329
+Antibiotic Target	Unclassified	486
+Beta-Lactamase	Unclassified	1506
+D-ala D-ala Ligase	Unclassified	301
+Gene Modulating Resistance	Unclassified	1820
+Gylcopeptide Resistance	Unclassified	0
+Methyltransferase	Unclassified	1570
+MFS Transporter	Unclassified	3236
+Nucleotidyltransferase	Unclassified	1
+Other	Unclassified	785
+Other Efflux	Unclassified	820
+Phosphotransferase	Unclassified	37
+RND Antibiotic Efflux	Unclassified	385
+rRNA Methyltransferase	Unclassified	3
+Stress Response	Unclassified	460
+Target Overexpression	Unclassified	73
+Target Protection	Unclassified	1
